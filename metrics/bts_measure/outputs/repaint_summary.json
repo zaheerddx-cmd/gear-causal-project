@@ -1,0 +1,18 @@
+{
+  "method": "repaint",
+  "num_images": 3,
+  "bts_mean": 0.5045459866523743,
+  "bts_std": 0.025280611589550972,
+  "bts_median": 0.48726052045822144,
+  "bts_min": 0.4860856831073761,
+  "bts_max": 0.5402917265892029,
+  "params": {
+    "r": 5,
+    "alpha": 1.0,
+    "beta": 0.4,
+    "eps": 1e-06,
+    "tau": 1.0,
+    "boundary_stride": 2,
+    "sdf_blur_sigma": 1.0
+  }
+}
